@@ -8,7 +8,7 @@ Peers curious about Lean, formal verification, or theorem proving. No prior Lean
 
 ## How it works
 
-- We meet weekly on Thursday at 7pm UTC
+- We meet weekly on Monday at 7pm UTC
 - Each session covers a chapter or subset of chapter, depending on chapter complexity
 - Format: one person presents key concepts, then we walk through exercises together
 - Between sessions: read the chapter, attempt the exercises, push your solutions to your own fork
@@ -24,8 +24,7 @@ Peers curious about Lean, formal verification, or theorem proving. No prior Lean
 ## Repo structure
 
 - `session-XXX/`: notes & exercise solutions, one folder per session
-- `extras/`: dump of cool readings, resources, projects, etc
 
 ## Current progress
 
-We're on Chapter 1. Next session: 30 April 2026
+We're on Chapter 2. Next session: 11 May 2026 (2.3-2.7)
