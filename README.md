@@ -27,4 +27,4 @@ Peers curious about Lean, formal verification, or theorem proving. No prior Lean
 
 ## Current progress
 
-We're on Chapter 2. Next session: 11 May 2026 (2.3-2.7)
+We're on Chapter 2. Next session: 25 May 2026 (2.8-2.9)
